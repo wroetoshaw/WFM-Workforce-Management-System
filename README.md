@@ -79,7 +79,7 @@ To get a local copy up and running, follow these simple steps:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your_username/Workforce-Management-System.git
+   git clone https://github.com/wroetoshaw/Workforce-Management-System.git
    ```
 2. Import the project into your preferred Java development environment.
 3. Configure the database connection settings in the `Conn.java` file.

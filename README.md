@@ -128,7 +128,7 @@ Project Link: [https://github.com/wroetoshaw/WFM-Workforce-Management-System](ht
 [issues-shield]: https://img.shields.io/github/issues/wroetoshaw/WFM-Workforce-Management-System.svg?style=for-the-badge
 [issues-url]: https://github.com/wroetoshaw/WFM-Workforce-Management-System/issues
 [license-shield]: https://img.shields.io/github/license/wroetoshaw/WFM-Workforce-Management-System.svg?style=for-the-badge
-[license-url]: https://github.com/wroetoshaw/WFM-Workforce-Management-System/blob/master/LICENSE.txt
+[license-url]: https://github.com/wroetoshaw/WFM-Workforce-Management-System/blob/master/license.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/gopagonikarthik/
 [Java]: https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white
